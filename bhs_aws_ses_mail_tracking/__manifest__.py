@@ -10,6 +10,6 @@
         'data/tracking_reply_data.xml',
         'views/mailing_trace_view.xml',
     ],
-    'images': ['static/description/banner.gif'],
+    'images': ['static/description/banner.png'],
     'license': 'LGPL-3',
 }
